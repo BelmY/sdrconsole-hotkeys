@@ -1,2 +1,2 @@
-^+!Up:: Send, {WheelUp}
-^+!Down:: Send, {WheelDown}
++Up:: Send, {WheelUp}
++Down:: Send, {WheelDown}
